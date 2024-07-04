@@ -1,1 +1,1 @@
-this is an alarm clock that i made on python idk why
+this is an alarm clock i made in python idk why
